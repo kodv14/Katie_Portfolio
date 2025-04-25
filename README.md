@@ -1,4 +1,4 @@
-![Banner](Screenshots Portfolio/CS Banner.jpeg)
+![Banner](Screenshots Portfolio/CS Banner.jpg)
 ***
 # Research Assistant
 
