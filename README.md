@@ -1,3 +1,5 @@
+![Banner](Screenshots%20Portfolio/CS%20Banner.jpg)
+***
 # Research Assistant
 
 ### About Me 
@@ -32,7 +34,7 @@ Loyola University, MD
 ***
 
 #### Excel Grade Calculator
- ![Grade Calculator Shot](/Screenshots Portfolio/Grade Calculator Shot.png)
+ ![Grade Calculator Shot](/Screenshots%20Portfolio/Grade%20Calculator Shot.png)
 - I came up with this project when I needed to figure out the grades that I needed to get to get an A in my Research Methods II Class. I am right on the edge of an A and currently have an A-, I wanted to see the minimum I could get on my upcoming assessments in the class and still maintain or hopefully get an A in the class.
 - I faced the challenges of inputting the correct formulas for calculating each letter grade, as well as making graphs and calculating points for each item that makes up the final grade.
 - I did not use any other resource nor collaborate with anyone else for this specific project.
