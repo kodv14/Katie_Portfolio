@@ -1,3 +1,4 @@
+![Banner](Screenshots Portfolio/CS Banner.jpeg)
 # Research Assistant
 
 ### About Me 
